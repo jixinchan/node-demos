@@ -14,6 +14,6 @@ fs.readFile(src,(err,data)=>{
         console.error(err.message);
         process.exit(1);
       }
-    })
+    });
   }
-})
+});

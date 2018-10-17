@@ -10,12 +10,12 @@ global.circle=(radius)=>{
     diameter:diameter,
     cirumference:cirumference,
     area:area
-  }
-}
+  };
+};
 
 global.objCircle = {
   diameter:(r)=>2*r,
   cirumference:(r)=>2*pi*r,
   area:(r)=>pi*r*r
-}
+};
 

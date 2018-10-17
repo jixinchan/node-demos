@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-const log=console.log;
+const log=console.log,
       arg=process.argv[2];
 
 log("argv[0]",argv[0]);

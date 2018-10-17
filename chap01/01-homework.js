@@ -6,7 +6,7 @@ for(var i=1;i<=10;i++){
 }
 console.log(res);
 
-result(n){
+function result(n){
   return n=1?1: n*result(n-1);
 }
 result(10);
