@@ -3,14 +3,14 @@ module.exports = {
         "es6": true,
         "node": true
     },
-  //  "extends": "eslint:recommended",
+    "extends": "eslint:recommended",
     "parserOptions": {
         "ecmaVersion": 2016
     },
     "rules": {
         "indent": [
             "error",
-            2
+            "tab"
         ],
         "linebreak-style": [
             "error",
@@ -23,9 +23,6 @@ module.exports = {
         "semi": [
             "error",
             "always"
-        ],
-        "no-console":[
-            "off"
         ]
     }
 };
