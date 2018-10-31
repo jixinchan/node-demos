@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/jixinchan/node-demos/issues"
   },
-  "homepage": "https://github.com/jixinchan/node-demos#readme"
+  "homepage": "https://github.com/jixinchan/node-demos#readme",
+  "dependencies": {}
 }
