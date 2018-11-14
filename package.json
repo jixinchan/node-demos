@@ -16,5 +16,7 @@
     "url": "https://github.com/jixinchan/node-demos/issues"
   },
   "homepage": "https://github.com/jixinchan/node-demos#readme",
-  "dependencies": {}
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
